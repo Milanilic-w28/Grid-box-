@@ -1,2 +1,2 @@
 A grid box exercise 
-[Grid box](https://milanilic-w28.github.io/Grid-box-/)
+<a href="https://milanilic-w28.github.io/Grid-box-/" target="_blank">Grid box</a>
