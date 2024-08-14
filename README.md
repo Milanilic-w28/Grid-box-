@@ -1,2 +1,2 @@
-Just a small grid box exercise as a beginer level
+A grid box exercise 
 [Grid box](https://milanilic-w28.github.io/Grid-box-/)
